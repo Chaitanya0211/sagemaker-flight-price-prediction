@@ -2,21 +2,6 @@
 
 This project develops a machine learning model to predict flight prices based on various features such as airline, source, destination, departure time, arrival time, and more. The model is trained and deployed using AWS SageMaker, and a web application is built with Streamlit to provide an interactive interface for users.
 
-## 📚 Table of Contents
-
-- [📌 Project Overview](#project-overview)
-- [📂 Dataset](#dataset)
-- [🛠️ Data Preprocessing](#data-preprocessing)
-- [🔍 Feature Engineering](#feature-engineering)
-- [📊 Model Training](#model-training)
-- [🚀 Model Deployment](#model-deployment)
-- [🌐 Web Application](#web-application)
-- [⚙️ Getting Started](#getting-started)
-- [📦 Dependencies](#dependencies)
-- [▶️ Usage](#usage)
-- [🤝 Contributing](#contributing)
-- [📜 License](#license)
-
 ## 📌 Project Overview
 
 The objective of this project is to build a regression model that accurately predicts flight prices. By analyzing various factors that influence flight prices, the model can assist travelers, travel agencies, and airlines in making informed decisions.
