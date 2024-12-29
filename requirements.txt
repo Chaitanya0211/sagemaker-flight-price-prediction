@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn = 1.4.0
+streamlit
+feature-engine
+xgboost
+joblib
